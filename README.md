@@ -1,3 +1,5 @@
+*** Projeto pego do Repositório da Trybe para fins de exercício.
+
 Esse é um projeto para o conteúdo da semana 16, sobre `Redux com react`.
 
 ### Antes de iniciar
